@@ -1,1 +1,24 @@
+ '''
+ for creating a new environment - conda create -p venv python==3.12
+ENTER
+y
+
+For activating our environment - conda activate venv./
+
+to remove base environment - conda deactivate
+
+for going inside python folder 
+cd .\python
+
+activate our venv environment
+conda activate venv./
+
+
+'''
+
+
+
+
+
 ipykernel
+numpy
