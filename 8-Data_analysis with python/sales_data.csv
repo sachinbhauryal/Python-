@@ -1,0 +1,301 @@
+Index No,Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+1,TXN100001,2025-03-13,Electronics,Laptop,9,374.89,3374.01,North,Net Banking
+2,TXN100002,2025-02-17,Electronics,Smartwatch,14,57.36,803.04,South,Credit Card
+3,TXN100003,2025-11-29,Sports,Tennis Racket,1,846.26,846.26,West,Credit Card
+4,TXN100004,2025-01-04,Home Appliances,Fan,9,1216.05,10944.45,South,UPI
+5,TXN100005,2025-06-22,Clothing,Jacket,5,330.82,1654.1,North,Cash
+6,TXN100006,2025-11-06,Home Appliances,Mixer,12,1272.77,15273.24,East,Cash
+7,TXN100007,2025-07-13,Home Appliances,Fan,4,1459.94,5839.76,North,Net Banking
+8,TXN100008,2025-12-27,Clothing,Shoes,12,870.25,10443.0,North,Cash
+9,TXN100009,2025-02-21,Furniture,Bookshelf,3,1284.42,3853.26,West,Debit Card
+10,TXN100010,2025-04-18,Home Appliances,Vacuum Cleaner,6,561.57,3369.42,East,Cash
+11,TXN100011,2025-03-25,Sports,Cricket Bat,18,1096.4,19735.2,West,UPI
+12,TXN100012,2025-01-29,Clothing,Shoes,8,1030.08,8240.64,South,Cash
+13,TXN100013,2025-10-18,Clothing,Hoodie,9,108.62,977.58,East,Credit Card
+14,TXN100014,2025-03-13,Home Appliances,Air Fryer,15,222.88,3343.2,South,Net Banking
+15,TXN100015,2025-10-26,Sports,Yoga Mat,19,648.37,12319.03,West,Debit Card
+16,TXN100016,2025-01-25,Furniture,Desk,17,745.34,12670.78,North,Credit Card
+17,TXN100017,2025-07-15,Furniture,Cabinet,20,104.66,2093.2,West,Net Banking
+18,TXN100018,2025-02-28,Clothing,Shoes,1,1023.62,1023.62,East,Debit Card
+19,TXN100019,2025-01-02,Electronics,Headphones,14,245.66,3439.24,East,Net Banking
+20,TXN100020,2025-06-02,Furniture,Table,4,1307.07,5228.28,South,Credit Card
+21,TXN100021,2025-09-29,Clothing,Jeans,18,1430.71,25752.78,North,Net Banking
+22,TXN100022,2025-07-05,Clothing,Hoodie,1,176.68,176.68,East,Credit Card
+23,TXN100023,2025-02-13,Electronics,Smartphone,19,1420.95,26998.05,West,Cash
+24,TXN100024,2025-10-09,Sports,Cricket Bat,5,993.03,4965.15,South,Debit Card
+25,TXN100025,2025-10-04,Sports,Tennis Racket,14,1446.9,20256.6,South,Debit Card
+26,TXN100026,2025-08-20,Home Appliances,Vacuum Cleaner,15,1350.42,20256.3,North,Credit Card
+27,TXN100027,2025-10-11,Furniture,Office Chair,11,41.34,454.74,South,Net Banking
+28,TXN100028,2025-01-31,Furniture,Office Chair,3,1064.68,3194.04,South,Cash
+29,TXN100029,2025-05-23,Electronics,Headphones,3,776.09,2328.27,West,Credit Card
+30,TXN100030,2025-05-05,Sports,Cricket Bat,19,868.56,16502.64,West,UPI
+31,TXN100031,2025-07-01,Furniture,Office Chair,4,991.88,3967.52,West,UPI
+32,TXN100032,2025-06-23,Home Appliances,Mixer,4,100.31,401.24,North,Credit Card
+33,TXN100033,2025-08-05,Furniture,Desk,18,678.43,12211.74,South,Debit Card
+34,TXN100034,2025-10-09,Home Appliances,Microwave,3,670.26,2010.78,North,Cash
+35,TXN100035,2025-05-02,Sports,Football,3,1390.29,4170.87,South,UPI
+36,TXN100036,2025-01-31,Home Appliances,Air Fryer,7,1298.33,9088.31,South,UPI
+37,TXN100037,2025-08-21,Electronics,Tablet,9,1390.51,12514.59,East,UPI
+38,TXN100038,2025-04-22,Sports,Dumbbells,5,292.95,1464.75,North,Net Banking
+39,TXN100039,2025-10-27,Sports,Football,11,95.18,1046.98,West,Net Banking
+40,TXN100040,2025-02-11,Sports,Cricket Bat,2,1441.56,2883.12,South,Cash
+41,TXN100041,2025-10-19,Sports,Football,8,611.63,4893.04,South,Net Banking
+42,TXN100042,2025-12-03,Sports,Football,20,132.16,2643.2,East,Debit Card
+43,TXN100043,2025-03-09,Furniture,Bookshelf,8,405.77,3246.16,East,UPI
+44,TXN100044,2025-10-16,Clothing,T-Shirt,1,692.85,692.85,North,Cash
+45,TXN100045,2025-06-28,Sports,Cricket Bat,17,405.15,6887.55,North,Credit Card
+46,TXN100046,2025-10-06,Clothing,Jacket,6,662.9,3977.4,East,Net Banking
+47,TXN100047,2025-12-06,Sports,Football,18,456.07,8209.26,North,Credit Card
+48,TXN100048,2025-03-21,Clothing,T-Shirt,4,1116.2,4464.8,East,Debit Card
+49,TXN100049,2025-11-21,Sports,Cricket Bat,11,313.36,3446.96,East,Net Banking
+50,TXN100050,2025-08-05,Home Appliances,Vacuum Cleaner,2,147.52,295.04,East,Cash
+51,TXN100051,2025-05-15,Electronics,Headphones,5,959.3,4796.5,South,UPI
+52,TXN100052,2025-02-08,Sports,Dumbbells,18,24.41,439.38,South,Net Banking
+53,TXN100053,2025-08-09,Electronics,Headphones,19,833.26,15831.94,South,Cash
+54,TXN100054,2025-04-18,Clothing,Jacket,2,1349.4,2698.8,South,Cash
+55,TXN100055,2025-03-21,Clothing,Shoes,14,1461.02,20454.28,South,Credit Card
+56,TXN100056,2025-06-20,Furniture,Cabinet,1,277.25,277.25,West,Credit Card
+57,TXN100057,2025-01-20,Clothing,Jeans,4,579.99,2319.96,West,Credit Card
+58,TXN100058,2025-04-27,Furniture,Cabinet,12,464.73,5576.76,South,Cash
+59,TXN100059,2025-02-05,Furniture,Cabinet,11,425.12,4676.32,East,Debit Card
+60,TXN100060,2025-01-15,Sports,Dumbbells,18,503.41,9061.38,North,Debit Card
+61,TXN100061,2025-11-02,Furniture,Table,9,67.0,603.0,West,Debit Card
+62,TXN100062,2025-03-01,Clothing,Hoodie,20,1476.51,29530.2,West,Net Banking
+63,TXN100063,2025-01-01,Furniture,Bookshelf,2,1066.09,2132.18,South,Debit Card
+64,TXN100064,2025-12-06,Home Appliances,Mixer,11,938.5,10323.5,North,Debit Card
+65,TXN100065,2025-12-23,Sports,Yoga Mat,14,496.01,6944.14,East,Net Banking
+66,TXN100066,2025-07-14,Furniture,Desk,14,1000.74,14010.36,South,Net Banking
+67,TXN100067,2025-01-01,Sports,Yoga Mat,13,826.43,10743.59,East,Debit Card
+68,TXN100068,2025-06-14,Furniture,Cabinet,19,913.93,17364.67,West,UPI
+69,TXN100069,2025-03-28,Home Appliances,Microwave,17,715.05,12155.85,North,Debit Card
+70,TXN100070,2025-05-01,Sports,Tennis Racket,11,149.15,1640.65,East,Credit Card
+71,TXN100071,2025-09-01,Furniture,Desk,1,78.86,78.86,North,UPI
+72,TXN100072,2025-07-16,Home Appliances,Fan,7,1080.34,7562.38,West,UPI
+73,TXN100073,2025-02-24,Furniture,Desk,1,1340.06,1340.06,West,Credit Card
+74,TXN100074,2025-05-08,Furniture,Table,15,84.83,1272.45,North,UPI
+75,TXN100075,2025-11-01,Furniture,Cabinet,17,1481.96,25193.32,East,UPI
+76,TXN100076,2025-10-08,Sports,Tennis Racket,14,1247.55,17465.7,West,Credit Card
+77,TXN100077,2025-11-23,Home Appliances,Air Fryer,9,1130.15,10171.35,East,Net Banking
+78,TXN100078,2026-01-01,Home Appliances,Microwave,9,665.41,5988.69,East,Credit Card
+79,TXN100079,2025-02-11,Clothing,Jacket,11,1340.61,14746.71,South,Credit Card
+80,TXN100080,2025-02-02,Furniture,Cabinet,5,1062.56,5312.8,West,UPI
+81,TXN100081,2025-04-16,Clothing,Shoes,15,629.5,9442.5,West,UPI
+82,TXN100082,2025-01-04,Sports,Football,19,576.77,10958.63,East,Debit Card
+83,TXN100083,2025-10-07,Home Appliances,Air Fryer,18,1123.8,20228.4,South,UPI
+84,TXN100084,2025-07-19,Furniture,Bookshelf,14,733.61,10270.54,East,UPI
+85,TXN100085,2025-10-01,Furniture,Cabinet,5,1471.28,7356.4,North,UPI
+86,TXN100086,2025-08-08,Sports,Tennis Racket,1,135.08,135.08,South,UPI
+87,TXN100087,2025-04-19,Furniture,Office Chair,9,574.86,5173.74,West,Debit Card
+88,TXN100088,2025-08-04,Clothing,Hoodie,9,1130.49,10174.41,East,Cash
+89,TXN100089,2025-06-29,Home Appliances,Mixer,18,87.61,1576.98,South,Cash
+90,TXN100090,2025-01-11,Electronics,Laptop,8,307.05,2456.4,South,Credit Card
+91,TXN100091,2025-04-22,Furniture,Cabinet,4,850.31,3401.24,West,Debit Card
+92,TXN100092,2025-02-28,Clothing,Jeans,20,914.8,18296.0,South,Debit Card
+93,TXN100093,2025-10-22,Electronics,Smartwatch,1,1394.04,1394.04,West,UPI
+94,TXN100094,2025-11-18,Furniture,Office Chair,19,1039.02,19741.38,South,Cash
+95,TXN100095,2025-10-17,Clothing,Shoes,4,1196.38,4785.52,North,Debit Card
+96,TXN100096,2025-11-28,Sports,Dumbbells,12,112.75,1353.0,East,Cash
+97,TXN100097,2025-07-05,Home Appliances,Air Fryer,4,655.95,2623.8,West,Credit Card
+98,TXN100098,2025-05-19,Home Appliances,Microwave,17,1448.56,24625.52,West,UPI
+99,TXN100099,2025-05-06,Home Appliances,Fan,9,490.23,4412.07,North,Debit Card
+100,TXN100100,2025-12-09,Home Appliances,Microwave,15,859.08,12886.2,West,Debit Card
+101,TXN100101,2025-04-19,Electronics,Tablet,11,280.94,3090.34,East,Debit Card
+102,TXN100102,2025-05-22,Clothing,Jacket,20,1054.76,21095.2,North,Net Banking
+103,TXN100103,2025-09-08,Furniture,Office Chair,8,1082.91,8663.28,South,UPI
+104,TXN100104,2025-04-24,Home Appliances,Air Fryer,1,148.65,148.65,West,Credit Card
+105,TXN100105,2025-09-29,Clothing,Shoes,12,715.16,8581.92,East,UPI
+106,TXN100106,2025-05-19,Sports,Yoga Mat,12,1057.25,12687.0,East,Debit Card
+107,TXN100107,2025-10-02,Furniture,Office Chair,7,480.17,3361.19,South,Credit Card
+108,TXN100108,2025-09-26,Furniture,Cabinet,9,1089.63,9806.67,East,Cash
+109,TXN100109,2025-06-04,Furniture,Bookshelf,8,547.71,4381.68,North,Net Banking
+110,TXN100110,2025-10-11,Furniture,Bookshelf,2,1461.7,2923.4,East,Credit Card
+111,TXN100111,2025-08-29,Home Appliances,Mixer,1,865.36,865.36,West,UPI
+112,TXN100112,2025-09-02,Clothing,Jeans,2,386.19,772.38,North,Cash
+113,TXN100113,2025-12-18,Home Appliances,Air Fryer,3,869.76,2609.28,North,Credit Card
+114,TXN100114,2025-05-08,Furniture,Table,10,136.92,1369.2,North,Net Banking
+115,TXN100115,2025-04-26,Home Appliances,Fan,20,1188.2,23764.0,West,UPI
+116,TXN100116,2025-06-06,Home Appliances,Vacuum Cleaner,19,1485.15,28217.85,North,Net Banking
+117,TXN100117,2025-02-11,Electronics,Smartphone,7,404.32,2830.24,South,Credit Card
+118,TXN100118,2025-07-29,Furniture,Table,3,243.23,729.69,West,Net Banking
+119,TXN100119,2025-12-28,Home Appliances,Vacuum Cleaner,2,354.9,709.8,East,UPI
+120,TXN100120,2025-11-17,Electronics,Smartphone,9,1183.86,10654.74,South,UPI
+121,TXN100121,2025-05-17,Electronics,Smartwatch,8,974.98,7799.84,South,Cash
+122,TXN100122,2025-10-19,Electronics,Smartphone,10,896.62,8966.2,East,UPI
+123,TXN100123,2025-05-20,Electronics,Tablet,10,1052.6,10526.0,West,UPI
+124,TXN100124,2025-06-15,Electronics,Smartwatch,2,1335.24,2670.48,East,Cash
+125,TXN100125,2025-01-11,Electronics,Smartphone,19,884.81,16811.39,East,Net Banking
+126,TXN100126,2025-08-15,Electronics,Smartphone,16,783.26,12532.16,East,Credit Card
+127,TXN100127,2025-08-29,Sports,Dumbbells,16,1453.89,23262.24,East,UPI
+128,TXN100128,2025-06-18,Clothing,Jacket,4,1288.02,5152.08,West,UPI
+129,TXN100129,2025-02-15,Clothing,Hoodie,18,64.68,1164.24,East,Debit Card
+130,TXN100130,2025-01-01,Clothing,T-Shirt,13,1298.72,16883.36,West,UPI
+131,TXN100131,2025-09-13,Electronics,Smartphone,17,549.05,9333.85,West,Cash
+132,TXN100132,2025-05-28,Furniture,Bookshelf,18,205.21,3693.78,West,UPI
+133,TXN100133,2025-12-30,Electronics,Laptop,20,1200.98,24019.6,South,Debit Card
+134,TXN100134,2025-04-26,Sports,Football,18,617.91,11122.38,North,UPI
+135,TXN100135,2025-05-30,Electronics,Smartphone,16,1399.65,22394.4,East,UPI
+136,TXN100136,2025-03-16,Home Appliances,Air Fryer,8,690.61,5524.88,West,Credit Card
+137,TXN100137,2025-05-22,Sports,Tennis Racket,5,1297.4,6487.0,West,Debit Card
+138,TXN100138,2025-06-02,Sports,Yoga Mat,1,431.43,431.43,West,Credit Card
+139,TXN100139,2025-10-10,Home Appliances,Fan,16,524.23,8387.68,West,UPI
+140,TXN100140,2025-04-30,Clothing,Jeans,8,861.98,6895.84,West,Cash
+141,TXN100141,2025-12-06,Clothing,Hoodie,13,585.26,7608.38,South,UPI
+142,TXN100142,2025-06-19,Electronics,Smartphone,17,1448.38,24622.46,North,UPI
+143,TXN100143,2025-03-15,Electronics,Smartwatch,15,32.87,493.05,West,Credit Card
+144,TXN100144,2025-12-21,Electronics,Tablet,9,514.46,4630.14,West,Cash
+145,TXN100145,2025-11-17,Clothing,Shoes,13,1431.67,18611.71,West,Net Banking
+146,TXN100146,2025-12-17,Electronics,Smartwatch,3,359.81,1079.43,East,Credit Card
+147,TXN100147,2025-12-27,Electronics,Tablet,4,1142.95,4571.8,North,UPI
+148,TXN100148,2025-01-29,Furniture,Bookshelf,1,78.53,78.53,East,Debit Card
+149,TXN100149,2025-07-30,Clothing,Hoodie,5,373.85,1869.25,South,Credit Card
+150,TXN100150,2025-11-14,Furniture,Office Chair,20,1307.55,26151.0,South,UPI
+151,TXN100151,2025-05-11,Sports,Cricket Bat,8,697.11,5576.88,West,Debit Card
+152,TXN100152,2025-03-22,Electronics,Tablet,10,1019.64,10196.4,North,UPI
+153,TXN100153,2025-08-06,Clothing,Shoes,10,962.02,9620.2,East,UPI
+154,TXN100154,2025-02-24,Clothing,Jeans,13,1281.47,16659.11,South,UPI
+155,TXN100155,2025-12-25,Sports,Yoga Mat,19,450.85,8566.15,East,Cash
+156,TXN100156,2025-12-18,Home Appliances,Vacuum Cleaner,1,853.23,853.23,North,Net Banking
+157,TXN100157,2025-06-30,Home Appliances,Vacuum Cleaner,8,914.53,7316.24,South,Credit Card
+158,TXN100158,2025-11-18,Sports,Yoga Mat,5,946.09,4730.45,North,Debit Card
+159,TXN100159,2025-03-09,Home Appliances,Mixer,19,553.64,10519.16,North,Debit Card
+160,TXN100160,2025-10-04,Clothing,Hoodie,6,309.18,1855.08,East,Net Banking
+161,TXN100161,2025-09-04,Sports,Yoga Mat,6,392.89,2357.34,East,Debit Card
+162,TXN100162,2025-04-26,Electronics,Tablet,3,219.73,659.19,West,Net Banking
+163,TXN100163,2025-10-02,Clothing,T-Shirt,13,30.74,399.62,North,UPI
+164,TXN100164,2025-11-23,Clothing,Jacket,19,577.73,10976.87,East,Cash
+165,TXN100165,2025-10-15,Furniture,Cabinet,1,933.12,933.12,East,Net Banking
+166,TXN100166,2025-06-04,Furniture,Office Chair,15,1364.99,20474.85,West,Cash
+167,TXN100167,2025-09-10,Furniture,Office Chair,2,463.5,927.0,North,Cash
+168,TXN100168,2025-07-09,Furniture,Table,5,589.08,2945.4,West,Net Banking
+169,TXN100169,2025-11-12,Furniture,Cabinet,4,1252.2,5008.8,West,Debit Card
+170,TXN100170,2025-05-01,Electronics,Headphones,7,670.64,4694.48,East,Cash
+171,TXN100171,2025-05-22,Clothing,Shoes,12,100.22,1202.64,South,Cash
+172,TXN100172,2025-11-02,Home Appliances,Mixer,7,966.14,6762.98,North,Cash
+173,TXN100173,2025-04-16,Clothing,Jeans,5,1182.6,5913.0,North,Net Banking
+174,TXN100174,2025-04-30,Furniture,Table,7,1221.45,8550.15,East,Credit Card
+175,TXN100175,2025-03-16,Sports,Football,9,1289.03,11601.27,South,Net Banking
+176,TXN100176,2025-01-14,Clothing,Jeans,4,994.98,3979.92,South,Cash
+177,TXN100177,2025-03-31,Clothing,Jeans,19,492.42,9355.98,East,Cash
+178,TXN100178,2025-02-02,Furniture,Cabinet,17,179.34,3048.78,West,UPI
+179,TXN100179,2025-09-15,Clothing,Shoes,19,172.49,3277.31,South,Net Banking
+180,TXN100180,2025-01-16,Electronics,Smartwatch,10,692.48,6924.8,North,UPI
+181,TXN100181,2025-08-16,Home Appliances,Air Fryer,4,740.5,2962.0,North,Cash
+182,TXN100182,2025-05-21,Clothing,Shoes,5,107.87,539.35,East,UPI
+183,TXN100183,2025-11-06,Sports,Tennis Racket,10,686.04,6860.4,West,Cash
+184,TXN100184,2025-04-27,Electronics,Smartwatch,7,650.8,4555.6,West,Debit Card
+185,TXN100185,2025-06-10,Home Appliances,Air Fryer,14,1097.12,15359.68,West,Debit Card
+186,TXN100186,2025-08-31,Clothing,Jacket,5,1033.36,5166.8,North,Cash
+187,TXN100187,2025-07-10,Electronics,Laptop,14,153.88,2154.32,South,Net Banking
+188,TXN100188,2025-12-10,Electronics,Smartwatch,18,846.91,15244.38,North,UPI
+189,TXN100189,2025-11-04,Clothing,Hoodie,2,1452.91,2905.82,East,Debit Card
+190,TXN100190,2025-12-03,Electronics,Smartwatch,17,326.98,5558.66,West,Credit Card
+191,TXN100191,2025-05-23,Electronics,Headphones,18,557.67,10038.06,South,UPI
+192,TXN100192,2025-10-13,Sports,Tennis Racket,20,1015.72,20314.4,North,Net Banking
+193,TXN100193,2025-06-08,Clothing,T-Shirt,6,417.17,2503.02,East,Debit Card
+194,TXN100194,2025-07-25,Electronics,Smartphone,5,853.82,4269.1,North,Credit Card
+195,TXN100195,2025-08-03,Electronics,Laptop,17,330.55,5619.35,West,Debit Card
+196,TXN100196,2025-10-18,Furniture,Bookshelf,10,1085.18,10851.8,North,Cash
+197,TXN100197,2025-02-11,Furniture,Desk,20,84.15,1683.0,East,UPI
+198,TXN100198,2025-05-20,Home Appliances,Air Fryer,20,668.65,13373.0,South,Net Banking
+199,TXN100199,2025-12-14,Electronics,Headphones,14,175.23,2453.22,West,Net Banking
+200,TXN100200,2025-11-03,Clothing,T-Shirt,8,598.94,4791.52,North,Cash
+201,TXN100201,2025-05-11,Furniture,Bookshelf,7,1153.35,8073.45,East,Debit Card
+202,TXN100202,2025-03-31,Electronics,Laptop,16,1123.05,17968.8,South,UPI
+203,TXN100203,2025-12-09,Sports,Cricket Bat,17,842.5,14322.5,East,Cash
+204,TXN100204,2025-02-09,Home Appliances,Mixer,14,37.92,530.88,East,Net Banking
+205,TXN100205,2025-08-02,Home Appliances,Fan,13,1067.15,13872.95,East,Cash
+206,TXN100206,2025-11-13,Home Appliances,Mixer,11,266.09,2926.99,West,Debit Card
+207,TXN100207,2025-10-29,Electronics,Tablet,4,372.54,1490.16,West,Net Banking
+208,TXN100208,2025-04-24,Electronics,Tablet,10,1121.25,11212.5,East,Credit Card
+209,TXN100209,2025-04-10,Electronics,Smartwatch,4,800.6,3202.4,East,Debit Card
+210,TXN100210,2025-04-12,Furniture,Desk,4,228.2,912.8,South,Net Banking
+211,TXN100211,2025-11-18,Furniture,Office Chair,6,1427.43,8564.58,West,UPI
+212,TXN100212,2025-10-17,Sports,Tennis Racket,15,1024.89,15373.35,East,Debit Card
+213,TXN100213,2025-11-20,Furniture,Cabinet,3,708.69,2126.07,East,Debit Card
+214,TXN100214,2025-06-08,Sports,Football,12,765.93,9191.16,West,UPI
+215,TXN100215,2025-02-09,Electronics,Laptop,12,1249.23,14990.76,North,Net Banking
+216,TXN100216,2025-10-11,Sports,Tennis Racket,13,699.44,9092.72,North,UPI
+217,TXN100217,2025-09-14,Sports,Cricket Bat,11,911.46,10026.06,South,Cash
+218,TXN100218,2025-02-13,Home Appliances,Mixer,11,1473.75,16211.25,South,Cash
+219,TXN100219,2025-11-09,Furniture,Cabinet,15,790.86,11862.9,South,Debit Card
+220,TXN100220,2025-06-23,Clothing,Jacket,13,619.07,8047.91,North,Debit Card
+221,TXN100221,2025-07-17,Electronics,Headphones,4,841.37,3365.48,East,Debit Card
+222,TXN100222,2025-12-06,Sports,Cricket Bat,11,131.44,1445.84,South,Debit Card
+223,TXN100223,2025-02-13,Clothing,Hoodie,5,896.61,4483.05,East,Net Banking
+224,TXN100224,2025-12-17,Home Appliances,Vacuum Cleaner,5,1008.47,5042.35,North,UPI
+225,TXN100225,2025-04-03,Sports,Yoga Mat,1,550.27,550.27,South,Debit Card
+226,TXN100226,2025-03-21,Home Appliances,Microwave,8,1499.97,11999.76,North,Debit Card
+227,TXN100227,2025-09-27,Electronics,Smartwatch,18,1254.33,22577.94,North,Debit Card
+228,TXN100228,2025-03-25,Sports,Cricket Bat,20,571.31,11426.2,South,Net Banking
+229,TXN100229,2025-12-13,Furniture,Cabinet,2,622.18,1244.36,South,UPI
+230,TXN100230,2025-05-03,Sports,Yoga Mat,15,358.66,5379.9,East,UPI
+231,TXN100231,2025-08-25,Furniture,Bookshelf,19,1476.82,28059.58,East,UPI
+232,TXN100232,2025-04-13,Sports,Tennis Racket,14,1449.74,20296.36,South,Debit Card
+233,TXN100233,2025-02-22,Electronics,Tablet,12,836.27,10035.24,North,Debit Card
+234,TXN100234,2025-09-20,Electronics,Smartphone,9,679.49,6115.41,South,UPI
+235,TXN100235,2025-01-14,Electronics,Smartphone,15,1328.1,19921.5,West,Cash
+236,TXN100236,2025-02-11,Home Appliances,Fan,12,361.31,4335.72,East,Credit Card
+237,TXN100237,2025-11-29,Electronics,Headphones,4,1260.37,5041.48,East,Credit Card
+238,TXN100238,2025-08-30,Furniture,Office Chair,10,1376.92,13769.2,South,UPI
+239,TXN100239,2025-01-10,Home Appliances,Fan,1,1359.73,1359.73,East,Credit Card
+240,TXN100240,2025-02-26,Furniture,Table,20,796.38,15927.6,East,Credit Card
+241,TXN100241,2025-11-24,Clothing,T-Shirt,2,365.27,730.54,West,Cash
+242,TXN100242,2025-11-20,Electronics,Tablet,20,808.72,16174.4,South,Credit Card
+243,TXN100243,2025-05-04,Clothing,Hoodie,1,926.07,926.07,West,Credit Card
+244,TXN100244,2025-09-27,Electronics,Smartwatch,12,110.84,1330.08,North,UPI
+245,TXN100245,2025-05-10,Home Appliances,Mixer,13,1471.75,19132.75,North,Debit Card
+246,TXN100246,2025-11-18,Electronics,Headphones,8,1102.08,8816.64,North,Net Banking
+247,TXN100247,2025-06-23,Clothing,Jeans,2,534.93,1069.86,South,UPI
+248,TXN100248,2025-08-23,Home Appliances,Microwave,5,104.02,520.1,North,Debit Card
+249,TXN100249,2025-06-11,Furniture,Office Chair,7,1329.83,9308.81,East,Net Banking
+250,TXN100250,2025-11-28,Home Appliances,Fan,16,387.44,6199.04,South,Debit Card
+251,TXN100251,2025-07-08,Clothing,T-Shirt,11,417.09,4587.99,West,UPI
+252,TXN100252,2025-09-12,Home Appliances,Air Fryer,11,1460.85,16069.35,West,Debit Card
+253,TXN100253,2025-02-10,Sports,Yoga Mat,3,1093.35,3280.05,West,Net Banking
+254,TXN100254,2025-02-10,Furniture,Table,10,488.61,4886.1,East,Debit Card
+255,TXN100255,2025-03-27,Clothing,Hoodie,20,1079.32,21586.4,West,Debit Card
+256,TXN100256,2025-08-11,Home Appliances,Mixer,12,926.13,11113.56,East,Cash
+257,TXN100257,2025-12-14,Electronics,Tablet,12,774.5,9294.0,South,Cash
+258,TXN100258,2025-02-04,Furniture,Table,15,61.85,927.75,South,Debit Card
+259,TXN100259,2025-03-20,Clothing,Hoodie,19,58.25,1106.75,West,Debit Card
+260,TXN100260,2025-09-29,Clothing,Hoodie,3,865.14,2595.42,East,UPI
+261,TXN100261,2025-01-14,Clothing,Jacket,8,1441.17,11529.36,South,UPI
+262,TXN100262,2025-05-14,Sports,Dumbbells,18,185.46,3338.28,West,Credit Card
+263,TXN100263,2025-03-11,Sports,Yoga Mat,16,308.27,4932.32,North,UPI
+264,TXN100264,2025-06-13,Furniture,Cabinet,3,1217.66,3652.98,East,Cash
+265,TXN100265,2025-03-22,Sports,Tennis Racket,10,1338.08,13380.8,South,Debit Card
+266,TXN100266,2025-03-13,Sports,Cricket Bat,4,1477.85,5911.4,South,UPI
+267,TXN100267,2025-08-28,Electronics,Headphones,18,862.69,15528.42,South,Net Banking
+268,TXN100268,2025-09-03,Electronics,Laptop,10,603.26,6032.6,West,UPI
+269,TXN100269,2025-11-25,Sports,Football,5,1458.85,7294.25,North,UPI
+270,TXN100270,2025-10-10,Home Appliances,Fan,12,201.22,2414.64,South,Credit Card
+271,TXN100271,2025-09-23,Home Appliances,Fan,2,1248.77,2497.54,South,Debit Card
+272,TXN100272,2025-04-26,Furniture,Desk,11,1402.76,15430.36,East,Net Banking
+273,TXN100273,2025-10-10,Clothing,T-Shirt,9,302.49,2722.41,East,Credit Card
+274,TXN100274,2025-11-25,Clothing,Shoes,18,149.21,2685.78,South,Net Banking
+275,TXN100275,2025-11-06,Sports,Cricket Bat,6,991.51,5949.06,East,Net Banking
+276,TXN100276,2025-11-25,Electronics,Laptop,3,77.74,233.22,East,Credit Card
+277,TXN100277,2025-09-12,Sports,Dumbbells,20,962.1,19242.0,East,Debit Card
+278,TXN100278,2025-02-07,Home Appliances,Microwave,13,453.18,5891.34,North,Credit Card
+279,TXN100279,2025-06-24,Home Appliances,Air Fryer,16,702.02,11232.32,South,Debit Card
+280,TXN100280,2025-07-09,Clothing,Jacket,13,204.84,2662.92,North,Debit Card
+281,TXN100281,2025-05-07,Furniture,Cabinet,4,408.53,1634.12,South,Cash
+282,TXN100282,2025-08-03,Electronics,Headphones,13,1297.6,16868.8,South,Credit Card
+283,TXN100283,2025-03-23,Clothing,Shoes,11,292.85,3221.35,West,Net Banking
+284,TXN100284,2025-02-16,Home Appliances,Air Fryer,10,751.08,7510.8,West,Net Banking
+285,TXN100285,2025-01-25,Home Appliances,Microwave,7,879.18,6154.26,North,Debit Card
+286,TXN100286,2025-01-05,Home Appliances,Fan,16,435.77,6972.32,North,UPI
+287,TXN100287,2025-07-07,Furniture,Bookshelf,12,1148.15,13777.8,North,UPI
+288,TXN100288,2025-10-11,Electronics,Smartwatch,18,300.04,5400.72,East,Cash
+289,TXN100289,2025-05-24,Home Appliances,Fan,15,1148.96,17234.4,North,Credit Card
+290,TXN100290,2025-06-23,Electronics,Tablet,12,1194.4,14332.8,East,Credit Card
+291,TXN100291,2025-01-21,Furniture,Table,17,608.07,10337.19,North,Cash
+292,TXN100292,2025-03-18,Furniture,Bookshelf,16,783.81,12540.96,South,Debit Card
+293,TXN100293,2025-11-12,Sports,Yoga Mat,6,595.5,3573.0,East,Net Banking
+294,TXN100294,2025-12-29,Clothing,Shoes,17,803.19,13654.23,East,UPI
+295,TXN100295,2025-08-02,Electronics,Headphones,11,1013.97,11153.67,East,Cash
+296,TXN100296,2025-10-24,Sports,Dumbbells,9,1450.94,13058.46,South,Cash
+297,TXN100297,2025-11-14,Sports,Dumbbells,6,791.11,4746.66,West,Credit Card
+298,TXN100298,2025-02-26,Furniture,Office Chair,19,1422.83,27033.77,South,Cash
+299,TXN100299,2025-12-20,Home Appliances,Vacuum Cleaner,14,235.63,3298.82,South,UPI
+300,TXN100300,2025-02-01,Sports,Tennis Racket,16,1310.5,20968.0,South,Net Banking
