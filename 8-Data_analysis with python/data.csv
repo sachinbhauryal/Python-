@@ -1,0 +1,201 @@
+Date,Category,Value,Product,Sales,Region
+2025-05-06,Books,173.8,Novel,71,South
+2025-02-14,Furniture,3399.66,Chair,140,Central
+2025-04-30,Groceries,197.5,Rice,56,Central
+2025-08-03,Sports,2828.16,Football,140,South
+2025-03-23,Groceries,1427.04,Tea,2,West
+2025-02-22,Clothing,819.62,Jacket,87,North
+2025-11-06,Groceries,1826.95,Rice,89,East
+2025-02-10,Electronics,2704.33,Tablet,97,Central
+2025-10-23,Clothing,4432.99,Sweater,93,South
+2025-05-29,Books,276.83,Novel,59,North
+2025-11-22,Furniture,1931.62,Chair,117,East
+2025-12-26,Furniture,1808.59,Sofa,69,North
+2025-03-25,Sports,2693.99,Cricket Bat,63,West
+2025-04-23,Groceries,4948.14,Bread,143,East
+2025-07-25,Electronics,4117.92,Smartphone,81,East
+2025-06-11,Electronics,4570.02,Smartphone,146,South
+2025-03-15,Books,2008.38,Comics,118,East
+2025-05-15,Furniture,3737.7,Desk,138,Central
+2025-03-12,Groceries,2027.03,Tea,57,Central
+2025-03-20,Groceries,3791.12,Rice,29,South
+2025-07-15,Books,3002.22,Comics,99,Central
+2025-01-06,Groceries,1294.5,Tea,142,North
+2025-02-27,Books,3766.85,Magazine,88,East
+2025-09-14,Groceries,2295.93,Milk,68,South
+2025-11-24,Sports,4359.07,Football,77,Central
+2025-10-04,Sports,806.55,Cricket Bat,42,Central
+2025-02-27,Electronics,1654.57,Monitor,5,East
+2025-02-10,Clothing,336.73,Jeans,146,North
+2025-03-06,Books,4089.32,Comics,137,South
+2025-05-16,Books,4736.9,Comics,43,Central
+2025-12-20,Sports,4823.6,Basketball,139,South
+2025-08-13,Books,2025.01,Dictionary,96,Central
+2025-06-23,Groceries,1277.13,Rice,17,North
+2025-01-04,Sports,1189.07,Yoga Mat,57,North
+2025-06-19,Books,1183.26,Novel,9,North
+2025-04-20,Sports,1428.46,Cricket Bat,125,Central
+2025-08-31,Furniture,2902.25,Table,63,West
+2025-07-01,Furniture,529.81,Chair,111,West
+2025-12-11,Groceries,4325.99,Eggs,14,North
+2025-05-08,Electronics,3654.66,Tablet,28,South
+2025-04-04,Furniture,2270.64,Table,109,East
+2025-08-15,Groceries,4378.71,Milk,20,Central
+2025-01-08,Electronics,3278.12,Laptop,139,North
+2025-04-20,Furniture,2061.75,Desk,124,West
+2025-05-16,Electronics,1925.92,Smartphone,100,West
+2025-12-05,Clothing,3498.13,Shoes,143,West
+2025-10-24,Furniture,1518.7,Desk,15,Central
+2025-09-02,Electronics,332.97,Headphones,150,Central
+2025-02-11,Sports,331.55,Cricket Bat,131,South
+2025-07-26,Electronics,386.41,Monitor,61,North
+2025-11-14,Sports,2915.65,Cricket Bat,11,North
+2025-05-14,Groceries,2847.87,Tea,81,South
+2025-03-09,Books,1231.5,Dictionary,102,East
+2025-01-05,Groceries,4648.64,Bread,19,West
+2025-10-03,Sports,4980.68,Yoga Mat,19,South
+2025-02-05,Sports,705.66,Tennis Racket,90,South
+2025-12-27,Clothing,830.85,Jacket,140,East
+2025-06-03,Sports,88.72,Yoga Mat,142,North
+2025-10-11,Furniture,621.37,Sofa,28,South
+2025-04-15,Clothing,3043.91,Jacket,88,East
+2025-02-17,Sports,1293.05,Basketball,14,West
+2025-11-23,Clothing,67.55,T-Shirt,34,East
+2025-10-15,Furniture,2780.82,Cabinet,110,North
+2025-10-07,Electronics,4728.0,Laptop,39,North
+2025-03-07,Clothing,2785.0,Sweater,111,North
+2025-07-03,Clothing,4499.96,Jacket,11,South
+2025-10-14,Books,3351.32,Notebook,91,West
+2025-03-25,Sports,4632.53,Cricket Bat,61,South
+2025-07-30,Groceries,937.84,Rice,86,South
+2025-07-15,Clothing,3947.5,Jeans,28,North
+2025-06-29,Groceries,1037.89,Milk,118,East
+2025-07-24,Furniture,167.14,Desk,50,East
+2025-06-29,Clothing,4836.1,T-Shirt,72,Central
+2025-03-01,Groceries,1689.19,Tea,8,East
+2025-01-20,Furniture,4814.54,Table,68,North
+2025-08-12,Sports,1761.15,Basketball,81,Central
+2025-04-08,Sports,1956.72,Football,148,East
+2025-12-18,Electronics,58.37,Tablet,138,South
+2025-11-16,Clothing,396.37,Shoes,85,East
+2025-09-17,Books,3612.78,Novel,77,East
+2025-10-11,Books,1664.61,Comics,76,South
+2025-12-13,Furniture,3341.4,Cabinet,98,South
+2025-01-01,Sports,1539.7,Yoga Mat,141,East
+2025-11-07,Clothing,2177.95,Jeans,149,East
+2025-09-19,Groceries,2238.69,Eggs,55,West
+2025-09-21,Books,3311.31,Notebook,73,Central
+2025-12-11,Clothing,4101.2,T-Shirt,61,East
+2025-05-06,Furniture,779.4,Desk,12,West
+2025-04-10,Sports,2304.31,Football,148,West
+2025-02-24,Groceries,1257.72,Eggs,2,West
+2025-08-26,Furniture,4030.34,Desk,133,North
+2025-08-22,Sports,4591.48,Cricket Bat,32,South
+2025-08-15,Groceries,4940.07,Tea,82,Central
+2025-08-17,Books,2162.37,Magazine,141,South
+2025-11-23,Books,2277.85,Comics,64,East
+2025-08-14,Sports,3152.4,Basketball,71,North
+2025-06-13,Books,1210.74,Dictionary,86,Central
+2025-12-22,Electronics,796.61,Smartphone,99,South
+2025-06-19,Books,367.93,Notebook,105,Central
+2025-07-19,Groceries,358.22,Eggs,108,Central
+2025-07-14,Books,4290.82,Novel,148,West
+2025-08-03,Electronics,1528.13,Headphones,100,Central
+2025-09-07,Books,4009.35,Magazine,57,South
+2025-06-22,Clothing,2453.93,Shoes,100,West
+2025-11-15,Books,4210.5,Notebook,33,Central
+2025-02-12,Electronics,2979.87,Tablet,7,West
+2025-07-14,Furniture,949.56,Cabinet,67,East
+2025-05-23,Furniture,1667.89,Cabinet,98,West
+2025-01-27,Clothing,2378.02,T-Shirt,139,East
+2025-01-16,Furniture,3917.1,Chair,11,South
+2025-03-06,Furniture,3125.61,Chair,62,West
+2025-08-27,Books,2841.65,Novel,56,East
+2025-03-25,Clothing,3049.17,Jeans,30,East
+2025-10-22,Electronics,177.11,Monitor,80,West
+2025-02-22,Groceries,426.18,Milk,63,East
+2025-01-22,Books,4037.36,Magazine,145,East
+2025-09-17,Sports,3324.53,Basketball,18,East
+2025-08-10,Electronics,4120.54,Tablet,28,East
+2025-04-01,Books,3551.18,Comics,112,Central
+2025-09-05,Books,3098.77,Dictionary,138,West
+2025-02-14,Groceries,1378.56,Tea,63,East
+2025-11-09,Groceries,3764.86,Milk,146,West
+2025-04-04,Clothing,2496.82,T-Shirt,84,West
+2025-05-24,Furniture,3999.27,Sofa,88,Central
+2025-04-08,Books,2801.17,Dictionary,133,North
+2025-12-20,Furniture,2468.46,Cabinet,62,West
+2025-02-17,Books,2268.46,Comics,5,East
+2025-12-06,Furniture,3474.35,Cabinet,79,Central
+2025-08-06,Clothing,2789.69,Shoes,89,Central
+2025-06-06,Clothing,3529.13,Jacket,70,East
+2025-03-03,Furniture,3620.36,Chair,81,Central
+2025-05-22,Books,998.13,Notebook,124,Central
+2025-04-10,Sports,1450.84,Yoga Mat,26,East
+2025-12-29,Furniture,938.24,Sofa,4,Central
+2025-10-11,Furniture,275.3,Sofa,14,East
+2025-02-22,Books,3207.45,Notebook,126,North
+2025-06-24,Sports,2373.51,Tennis Racket,113,South
+2025-02-28,Electronics,4708.26,Headphones,123,North
+2025-03-19,Groceries,416.71,Eggs,14,South
+2025-03-02,Sports,471.65,Tennis Racket,64,Central
+2025-09-25,Groceries,3000.83,Tea,58,West
+2025-06-06,Groceries,1521.9,Eggs,110,Central
+2025-04-17,Sports,3067.67,Football,26,South
+2025-10-10,Clothing,827.43,T-Shirt,45,North
+2025-05-30,Furniture,2072.16,Chair,121,North
+2025-02-06,Furniture,3549.43,Sofa,117,South
+2025-08-06,Clothing,3322.86,Sweater,51,North
+2025-03-14,Sports,3255.79,Cricket Bat,69,North
+2025-05-28,Electronics,3973.51,Smartphone,146,West
+2025-05-20,Electronics,3458.96,Tablet,104,Central
+2025-08-10,Sports,2216.91,Basketball,11,East
+2025-12-12,Sports,178.03,Tennis Racket,59,Central
+2025-10-23,Sports,4997.88,Football,69,North
+2025-05-23,Furniture,2618.87,Cabinet,114,South
+2025-02-16,Sports,3192.18,Basketball,126,West
+2025-03-24,Clothing,1699.88,Shoes,27,East
+2025-10-09,Groceries,1476.68,Eggs,103,North
+2025-03-01,Groceries,1606.86,Rice,83,West
+2025-08-25,Sports,3305.42,Football,139,West
+2025-11-17,Electronics,2616.27,Smartphone,128,West
+2025-05-28,Electronics,1371.93,Smartphone,34,West
+2025-12-30,Books,651.06,Comics,62,South
+2025-02-17,Clothing,117.69,Sweater,105,South
+2025-09-13,Electronics,4737.95,Tablet,40,East
+2025-08-30,Sports,2106.68,Tennis Racket,124,South
+2025-11-03,Groceries,765.98,Tea,49,Central
+2025-08-01,Books,4326.93,Notebook,71,East
+2025-06-02,Sports,4111.72,Tennis Racket,73,Central
+2025-10-03,Sports,4333.04,Basketball,115,West
+2025-07-13,Clothing,2781.99,Jacket,140,West
+2025-10-20,Clothing,4904.83,Jeans,62,West
+2025-12-28,Furniture,266.05,Cabinet,122,West
+2025-03-06,Groceries,2501.88,Milk,10,Central
+2025-02-21,Sports,4355.02,Tennis Racket,113,Central
+2025-12-02,Groceries,3626.1,Rice,105,South
+2025-06-23,Electronics,3918.55,Tablet,68,Central
+2025-12-12,Books,3266.69,Comics,85,Central
+2025-10-05,Groceries,3152.66,Bread,125,North
+2025-04-27,Sports,1212.11,Football,74,North
+2025-08-16,Groceries,3813.83,Rice,26,South
+2025-06-16,Books,4521.95,Dictionary,12,North
+2025-05-06,Clothing,1905.46,Jacket,38,Central
+2025-03-29,Groceries,3424.91,Tea,47,South
+2025-09-12,Electronics,4360.66,Monitor,62,Central
+2025-08-24,Furniture,2332.69,Desk,66,East
+2025-05-28,Books,4499.6,Novel,120,Central
+2025-10-28,Furniture,2236.56,Chair,89,East
+2025-06-04,Books,3467.05,Comics,117,South
+2025-10-20,Groceries,577.93,Eggs,98,East
+2025-01-12,Sports,4963.83,Tennis Racket,76,West
+2025-11-07,Clothing,2851.35,T-Shirt,13,West
+2025-04-23,Clothing,3054.97,Jeans,91,South
+2025-11-18,Sports,3404.93,Tennis Racket,36,North
+2025-01-18,Books,1579.22,Novel,113,Central
+2025-06-17,Clothing,496.16,Jeans,76,West
+2025-07-07,Furniture,704.19,Desk,139,Central
+2025-09-04,Sports,4160.84,Tennis Racket,66,East
+2025-02-08,Books,4030.95,Dictionary,120,South
+2025-07-07,Furniture,4837.99,Cabinet,143,North
+2025-08-21,Groceries,1359.07,Rice,32,East
